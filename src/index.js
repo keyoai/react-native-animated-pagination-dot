@@ -27,7 +27,7 @@ class DotContainer extends React.Component{
 
     render () {
         const { curPage, maxPage, activeDotColor } = this.props;
-        const list = [ ...Array(maxPage).keys() ];
+        const list = new Array(maxPage).fill(0).map((_, idx) => idx);
 
 
         let normalizedPage = curPage;

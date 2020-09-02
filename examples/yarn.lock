@@ -4239,9 +4239,10 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   version "16.9.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.9.0.tgz#21ca9561399aad0ff1a7701c01683e8ca981edcb"
 
-react-native-animated-pagination-dot@^0.1.2:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/react-native-animated-pagination-dot/-/react-native-animated-pagination-dot-0.1.5.tgz#c164f575b0ed6613db60879709acf8655edca993"
+react-native-animated-pagination-dot@^0.1.6:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/react-native-animated-pagination-dot/-/react-native-animated-pagination-dot-0.1.7.tgz#8ac4a409de26771f97af045f4d9c6b1e1cf49472"
+  integrity sha512-60CwTXoHcGoTMVJr+4RrdPRQ1RcjF3sjW6mEHQRpiwa3nX9F0hKa8bTxW8ISJTs92cDXxiB5nw0HfhsfWt2wnQ==
 
 react-native@0.60.5:
   version "0.60.5"

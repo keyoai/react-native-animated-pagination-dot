@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.8.6",
+    "react": "16.13.1",
     "react-native": "0.60.5",
     "react-native-animated-pagination-dot": "^0.1.2"
   },
